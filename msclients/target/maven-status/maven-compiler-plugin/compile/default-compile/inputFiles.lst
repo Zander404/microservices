@@ -1,1 +1,6 @@
-/home/xandy/IdeaProjects/msclients/src/main/java/com/zander404/msclients/MsclientsApplication.java
+/home/xandy/IdeaProjects/microservices/msclients/src/main/java/com/zander404/msclients/MsclientsApplication.java
+/home/xandy/IdeaProjects/microservices/msclients/src/main/java/com/zander404/msclients/application/ClientResource.java
+/home/xandy/IdeaProjects/microservices/msclients/src/main/java/com/zander404/msclients/application/ClientService.java
+/home/xandy/IdeaProjects/microservices/msclients/src/main/java/com/zander404/msclients/application/representation/ClientSaveRequest.java
+/home/xandy/IdeaProjects/microservices/msclients/src/main/java/com/zander404/msclients/domain/Client.java
+/home/xandy/IdeaProjects/microservices/msclients/src/main/java/com/zander404/msclients/infra/repository/ClientRepository.java
