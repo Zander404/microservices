@@ -30,7 +30,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/xandy/IdeaProjects/microservices&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/xandy/IdeaProjects/microservices/msclients&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,6 +60,8 @@
       <workItem from="1739401104194" duration="122000" />
       <workItem from="1739401255184" duration="2029000" />
       <workItem from="1739469361866" duration="703000" />
+      <workItem from="1739470989524" duration="3876000" />
+      <workItem from="1739479624137" duration="173000" />
     </task>
     <servers />
   </component>
