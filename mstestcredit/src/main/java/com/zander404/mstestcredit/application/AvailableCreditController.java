@@ -23,6 +23,7 @@ public class AvailableCreditController {
     public ResponseEntity<ClientSituation> consultClientSituation(@RequestParam("cpf") String cpf){
 
         ClientSituation clientSituation = availableCreditServices.getClientSituation(cpf);
+        return ResponseEntity.ok(clientSituation);
     }
 
 
