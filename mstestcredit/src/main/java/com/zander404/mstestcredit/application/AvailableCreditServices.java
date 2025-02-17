@@ -6,6 +6,7 @@ import com.zander404.mstestcredit.domain.model.ClientSituation;
 import com.zander404.mstestcredit.domain.model.DataClient;
 import feign.FeignException;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
@@ -13,7 +14,7 @@ import org.springframework.stereotype.Service;
 @Service
 @RequiredArgsConstructor
 public class AvailableCreditServices {
-
+//    @Autowired
     private final ClientResourceClient clientClient;
     private final CardResourceClient cardClient;
 
